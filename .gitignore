@@ -1,0 +1,5 @@
+# Schutz vor versehentlichem Committen von Quellcode und Build-Dateien.
+# Nur die öffentliche Download-Dokumentation zulassen.
+*
+!.gitignore
+!README.md
